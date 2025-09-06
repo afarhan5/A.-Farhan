@@ -43,7 +43,7 @@ I'm a **Full Stack Web Developer**, **DevOps Engineer**, and **AI/ML Enthusiast*
 
 ## 📫 How to Reach Me
 
-- 🌐 Portfolio: https://afarhan.com
+- 🌐 Portfolio: https://afarhan5.com
 - 📧 Email: arshadfarhan005@gmail.com
 - 💼 LinkedIn: https://linkedin.com/afarhan5
 - 🐦 Twitter: https://twitter.com/afarhan5
